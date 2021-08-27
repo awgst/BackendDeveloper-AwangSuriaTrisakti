@@ -14,5 +14,5 @@ Pengerjaan test PHP Dasar dan Laravel Dasar\
 2. CRUD dengan resource controller untuk company dan employee. Pagination maks 5.
 3. Database schema untuk company dan employee.
 4. Menggunakan request validation.
-5. Menggunakan laravel/ui package.
-\Informasi lebih lanjut terkait laravel ada di dalam repo Companies-Management.
+5. Menggunakan laravel/ui package.\
+Informasi lebih lanjut terkait laravel ada di dalam repo Companies-Management.
