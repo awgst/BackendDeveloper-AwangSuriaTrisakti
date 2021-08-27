@@ -1,0 +1,3 @@
+[submodule "Companies-Management"]
+	path = Companies-Management
+	url = https://github.com/awgst/Companies-Management.git
