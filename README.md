@@ -15,4 +15,4 @@ Pengerjaan test PHP Dasar dan Laravel Dasar\
 3. Database schema untuk company dan employee.
 4. Menggunakan request validation.
 5. Menggunakan laravel/ui package.
-Informasi lebih lanjut terkait laravel ada di dalam repo Companies-Management.
+\Informasi lebih lanjut terkait laravel ada di dalam repo Companies-Management.
